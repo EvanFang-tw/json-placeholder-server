@@ -1,6 +1,16 @@
 {
-  "user": {
-    "id": 1,
-    "name": "Evan"
-  }
+  "user": [
+    {
+      "id": 1,
+      "name": "Evan"
+    },
+    {
+      "id": 2,
+      "name": "Foo"
+    },
+    {
+      "id": 3,
+      "name": "Bar"
+    }
+  ]
 }
